@@ -1,5 +1,5 @@
 nav#cabecera{
-    background-color: #c200003b;
+    background-color: #5356703b;
     }
 
 nav a {
@@ -65,6 +65,7 @@ header {
     opacity: 0.5;
     z-index: 1;
   }
+  
 div#titulo{
     color: rgb(0, 0, 0);
     text-align: center;
@@ -73,6 +74,10 @@ div#titulo{
 
 img#logo2{
     width: 30%;
+}
+
+img#obrero{
+    width: 50%;
 }
 
 div.card-group img{
@@ -89,6 +94,10 @@ div.card button a{
 div.card#negro button a{
     text-decoration: none;
     color: black;
+}
+
+div#working{
+    text-align: center;
 }
 
 * {
